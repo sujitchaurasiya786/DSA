@@ -1,4 +1,4 @@
-//Implmentation  of linked list.
+//Implmentation  of add new node as first node in linked list.
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
