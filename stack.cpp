@@ -29,7 +29,7 @@ main(){
 			case 2:
 				if(s.top==-1){
 					printf("UnderFlow\n");
-					
+				}else{
 					item=s.Stack[s.top];
 					printf("Deleted Item = %d",item);
 					s.top--;
