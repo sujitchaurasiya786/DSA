@@ -31,7 +31,7 @@ main(){
 					printf("UnderFlow\n");
 				}else{
 					item=s.Stack[s.top];
-					printf("Deleted Item = %d",item);
+					printf("Deleted Item = %d\n",item);
 					s.top--;
 				}
 			break;
